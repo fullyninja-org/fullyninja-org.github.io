@@ -1,0 +1,25 @@
+{
+  "name": "fullyninja-org.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullyninja-org/fullyninja-org.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullyninja-org/fullyninja-org.github.io/issues"
+  },
+  "homepage": "https://github.com/fullyninja-org/fullyninja-org.github.io#readme",
+  "devDependencies": {
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
